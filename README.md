@@ -25,7 +25,7 @@ Run the app to confirm that everything works
     flutter run
 
 ## App Screens
-Apps screen are shown below:
+App screens are shown below:
 
 ### Chat App
 <img src="./readMe_screenshots/chat.png" width="324" height="576">
