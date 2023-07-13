@@ -1,3 +1,6 @@
 # wallet_page
 
-A new Flutter project.
+Day five of 5 days UI Challenge
+
+## Screen
+<img src="../readMe_screenshots/wallet.png" width="324" height="576">

@@ -11,7 +11,6 @@ void main() {
       title: 'Real Estate',
       theme: ThemeData(
           primaryColor: colorWhite,
-          accentColor: colorBlack,
           textTheme: screenWidth < 500 ? textThemeSmall : textThemeDefault,
           fontFamily: 'Montserrat'),
       home: const LandingPageView(),
